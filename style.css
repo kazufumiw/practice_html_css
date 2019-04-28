@@ -1,19 +1,21 @@
 .header{
-  /*
-  height: 67px;
+  height: 55px;
   width:  1000px;
-  */
   padding-left: 150px;
 }
 .header_logo{
+  /*
   height: 67px;
+  */
   width:  200px;
   float: left;
 }
 .header_links{
+  /*
   height: 67px;
+  */
   width:  300px;
-  padding-top: 10px;
+  padding-top: 12px;
   padding-left: 550px;
 }
 .content_backimg{
@@ -24,6 +26,8 @@
 }
 
 .content_backimg_shopname{
+  
+  color: #eeeeee;
   margin-top: 0px;
   margin-bottom: 0px;
   font-size: 56pt;
@@ -31,6 +35,7 @@
 }
 
 .content_backimg_description1{
+  color: #eeeeee;
   font-size: 20pt;
   text-align: center;
   margin-top: 0px;
@@ -38,6 +43,7 @@
 }
 
 .content_backimg_description2{
+  color: #eeeeee;
   font-size: 12pt;
   text-align: center;
   margin-top: 60px;
@@ -48,6 +54,7 @@
 }
 .content_recommend {
   text-align: center;
+  padding-bottom: 10px;
 }
 .content_recommend_title{
   margin-top: 0px;
@@ -62,5 +69,22 @@
 .content_recommend_caption{
   margin-top: 0px;
 }
-.content_recommend_comment img{
+.content_recommend_comment{
+}
+
+.footer{
+  color: #eeeeee;
+  margin-top: 74px;
+  height: 140px;
+  width: 960px;
+  background-color: #020015;
+  padding-top: 10px;
+  padding-left: 40px;
+}
+.footer_share{
+}
+.footer_copyright{
+  text-align: right;
+  margin-top: 40px;
+  margin-right: 40px;
 }
