@@ -21,7 +21,6 @@
   width: 1000px;
   height: 370px;
   padding-top: 100px
-
 }
 
 .content_backimg_shopname{
@@ -29,7 +28,6 @@
   margin-bottom: 0px;
   font-size: 56pt;
   text-align: center;
-
 }
 
 .content_backimg_description1{
@@ -43,4 +41,26 @@
   font-size: 12pt;
   text-align: center;
   margin-top: 60px;
+}
+.content_recommend{
+  width: 1000px;
+  padding-top: 100px;
+}
+.content_recommend {
+  text-align: center;
+}
+.content_recommend_title{
+  margin-top: 0px;
+  font-size: 15pt;
+}
+.content_recommend_img{
+  text-align: center;
+}
+.content_recommend_img img{
+  width: 500px;
+}
+.content_recommend_caption{
+  margin-top: 0px;
+}
+.content_recommend_comment img{
 }
