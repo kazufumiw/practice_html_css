@@ -1,32 +1,25 @@
 .header{
   height: 55px;
-  width:  1000px;
+  /*
   padding-left: 150px;
+  */
 }
 .header_logo{
-  /*
-  height: 67px;
-  */
-  width:  200px;
+  margin-left: 7%;
   float: left;
 }
 .header_links{
-  /*
-  height: 67px;
-  */
-  width:  300px;
   padding-top: 12px;
-  padding-left: 550px;
+  text-align: right;
+  margin-right: 50px;
 }
 .content_backimg{
   background-image: url(http://www.cosco-inc.com/images/main.png);
-  width: 1000px;
   height: 370px;
   padding-top: 100px
 }
 
 .content_backimg_shopname{
-
   color: #eeeeee;
   margin-top: 0px;
   margin-bottom: 0px;
@@ -49,7 +42,6 @@
   margin-top: 60px;
 }
 .content_recommend{
-  width: 1000px;
   padding-top: 100px;
 }
 .content_recommend {
@@ -76,7 +68,6 @@
   color: #eeeeee;
   margin-top: 74px;
   height: 140px;
-  width: 960px;
   background-color: #020015;
   padding-top: 10px;
   padding-left: 40px;
