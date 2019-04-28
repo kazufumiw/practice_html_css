@@ -56,7 +56,9 @@
   text-align: center;
 }
 .content_recommend_img img{
-  width: 500px;
+  border-radius: 10px;
+  max-width: 500px;
+  width: 100%;
 }
 .content_recommend_caption{
   margin-top: 0px;
