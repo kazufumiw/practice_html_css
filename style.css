@@ -35,6 +35,7 @@ body{
 }
 .content_backimg{
   background-image: url(http://www.cosco-inc.com/images/main.png);
+  background-size: cover;
   height: 370px;
   padding-top: 100px
 }
@@ -77,6 +78,13 @@ body{
   text-align: center;
 }
 .content_recommend_img img{
+  box-shadow: 2px 2px 4px #b7b7b7;
+  border-radius: 10px;
+  max-width: 500px;
+  width: 100%;
+}
+.content_recommend_img img:hover{
+  box-shadow: 6px 6px 12px #b7b7b7;
   border-radius: 10px;
   max-width: 500px;
   width: 100%;
