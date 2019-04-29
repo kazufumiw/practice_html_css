@@ -40,7 +40,7 @@ body{
 }
 
 .content_backimg_shopname{
-  color: #eeeeee;
+  color: #f6eeee;
   margin-top: 0px;
   margin-bottom: 0px;
   font-size: 56pt;
@@ -48,7 +48,7 @@ body{
 }
 
 .content_backimg_description1{
-  color: #eeeeee;
+  color: #f6eeee;
   font-size: 20pt;
   text-align: center;
   margin-top: 0px;
@@ -56,7 +56,7 @@ body{
 }
 
 .content_backimg_description2{
-  color: #eeeeee;
+  color: #f6eeee;
   font-size: 12pt;
   text-align: center;
   margin-top: 60px;
@@ -69,6 +69,7 @@ body{
   padding-bottom: 10px;
 }
 .content_recommend_title{
+  color: #554545;
   margin-top: 0px;
   font-size: 15pt;
 }
@@ -81,16 +82,18 @@ body{
   width: 100%;
 }
 .content_recommend_caption{
+  color: #554545;
   margin-top: 0px;
 }
 .content_recommend_comment{
+  color: #554545;
 }
 
 .footer{
   color: #eeeeee;
   margin-top: 74px;
   height: 140px;
-  background-color: #020015;
+  background-color: #806060;
   padding-top: 10px;
   padding-left: 40px;
 }
