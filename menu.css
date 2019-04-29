@@ -1,0 +1,83 @@
+body{
+  margin: 0px;
+}
+p{
+  color: #554545;
+}
+h2{
+  color: #554545;
+}
+.header{
+  height: 55px;
+}
+.header_logo{
+  padding-top: 5px;
+  margin-left: 7%;
+  float: left;
+  height: 55px;
+}
+.header_blank{
+  float: left;
+  width: 51%;
+  height: 55px;
+}
+.header_links{
+  float: left;
+  height: 55px;
+  text-align: center;
+  margin-right: 30px;
+  padding-top: 16px;
+}
+.header_links a{
+  color: #707090
+}
+.header_links a:hover{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: #deeefa;
+}
+.header_links_div{
+  float: left;
+}
+
+.menu{
+  width: 100%;
+}
+.menu_cardcase{
+  margin-right: 6%;
+  margin-left: 6%;
+  width: 100%
+}
+
+.menu_card{
+  text-align: center;
+  background-color: #efdede;
+  border-radius: 10px;
+  float: left;
+  width: 25%;
+  margin: 1%;
+  padding: 1%;
+  box-shadow: 2px 2px 8px #dddddd;
+}
+
+.menu_card img{
+  border-radius: 5px;
+}
+
+
+
+.footer{
+  clear: both;
+  color: #eeeeee;
+  margin-top: 74px;
+  height: 140px;
+  background-color: #806060;
+  padding-top: 10px;
+  padding-left: 40px;
+}
+.footer_share{
+}
+.footer_copyright{
+  text-align: right;
+  margin-right: 40px;
+}
