@@ -1,17 +1,37 @@
+body{
+  margin: 0px;
+}
 .header{
   height: 55px;
-  /*
-  padding-left: 150px;
-  */
 }
 .header_logo{
+  padding-top: 5px;
   margin-left: 7%;
   float: left;
+  height: 55px;
+}
+.header_blank{
+  float: left;
+  width: 51%;
+  height: 55px;
 }
 .header_links{
-  padding-top: 12px;
-  text-align: right;
-  margin-right: 50px;
+  float: left;
+  height: 55px;
+  text-align: center;
+  margin-right: 30px;
+  padding-top: 16px;
+}
+.header_links a{
+  color: #707090
+}
+.header_links a:hover{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: #deeefa;
+}
+.header_links_div{
+  float: left;
 }
 .content_backimg{
   background-image: url(http://www.cosco-inc.com/images/main.png);
