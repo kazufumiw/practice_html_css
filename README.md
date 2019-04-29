@@ -6,3 +6,5 @@ https://kazufumiw.github.io/practice_html_css/
 # progress
 ## 2019/4/27
 P.1 ~ P.89
+## 2019/4/28
+P.90 ~ P.130
