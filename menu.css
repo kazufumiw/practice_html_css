@@ -4,6 +4,9 @@ body{
 p{
   color: #554545;
 }
+h1{
+  color: #554545;
+}
 h2{
   color: #554545;
 }
@@ -43,6 +46,9 @@ h2{
 .menu{
   width: 100%;
 }
+.menu_title{
+  margin-left: 6%;
+}
 .menu_cardcase{
   margin-right: 6%;
   margin-left: 6%;
@@ -76,8 +82,10 @@ h2{
   padding-left: 40px;
 }
 .footer_share{
+  color: #eeeeee;
 }
 .footer_copyright{
+  color: #eeeeee;
   text-align: right;
   margin-right: 40px;
 }
