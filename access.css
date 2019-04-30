@@ -43,32 +43,15 @@ h2{
   float: left;
 }
 
-.menu{
+.access{
   width: 100%;
+  padding-left: 6%;
 }
-.menu_title{
-  margin-left: 6%;
+.access_title{
 }
-.menu_cardcase{
-  margin-right: 6%;
-  margin-left: 6%;
-  width: 100%
+.access_adress{
 }
 
-.menu_card{
-  text-align: center;
-  background-color: #efdede;
-  border-radius: 10px;
-  float: left;
-  width: 25%;
-  margin: 1%;
-  padding: 1%;
-  box-shadow: 2px 2px 8px #dddddd;
-}
-
-.menu_card img{
-  border-radius: 5px;
-}
 
 
 
