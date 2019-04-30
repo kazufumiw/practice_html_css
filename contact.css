@@ -10,6 +10,10 @@ h1{
 h2{
   color: #554545;
 }
+h3{
+  color: #554545;
+}
+
 .header{
   height: 55px;
 }
@@ -43,14 +47,26 @@ h2{
   float: left;
 }
 
-.access{
+.contact{
   width: 100%;
   padding-left: 6%;
 }
-.access_title{
+.contact_form input{
+  padding: 2px 4px;
+  width: 400px;
 }
-.access_adress{
+.contact_form textarea{
+  padding: 2px 4px;
+  width: 400px;
 }
+.contact_form .submit_button{
+  margin-top: 20px;
+  width: 80px;
+}
+
+.contact_adress{
+}
+
 .footer{
   clear: both;
   color: #eeeeee;
