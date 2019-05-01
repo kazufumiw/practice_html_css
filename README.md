@@ -7,6 +7,8 @@ https://kazufumiw.github.io/practice_html_css/
 ## 2019/4/27
 P.1 ~ P.89
 ## 2019/4/28
-p.90 ~ P.130
+P.90 ~ P.130
 ## 2019/4/29
-p.131 ~ P.162
+P.131 ~ P.162
+## 2019/4/30
+P.163 ~ P.227(finished)
