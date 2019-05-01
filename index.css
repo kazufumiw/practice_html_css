@@ -3,6 +3,8 @@ body{
 }
 .header{
   height: 55px;
+  box-shadow: 2px 2px 4px #dddddd;
+  margin-bottom: 2px;
 }
 .header_logo{
   padding-top: 5px;
@@ -23,6 +25,7 @@ body{
   padding-top: 16px;
 }
 .header_links a{
+  text-align: right;
   color: #707090
 }
 .header_links a:hover{

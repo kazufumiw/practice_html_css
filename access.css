@@ -12,6 +12,7 @@ h2{
 }
 .header{
   height: 55px;
+  box-shadow: 2px 2px 4px #dddddd;
 }
 .header_logo{
   padding-top: 5px;
